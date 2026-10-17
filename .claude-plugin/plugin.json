@@ -1,7 +1,7 @@
 {
   "name": "tickertrac-assistant",
   "displayName": "TickerTrac",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Review your saved TickerTrac theses and check an assumption against exact retained evidence, read-only by default, with owner-approved record changes.",
   "author": {
     "name": "TickerTrac",

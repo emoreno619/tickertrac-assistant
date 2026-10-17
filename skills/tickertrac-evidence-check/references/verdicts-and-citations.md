@@ -49,6 +49,11 @@ Rules:
 
 - The verdict line always carries "my reading, not saved".
 - Every quote is verbatim tool output with locator, ids and its own dates.
+- Use `source_url` as an external citation only when `source_link_state` is
+  `available`. Otherwise say “Source link unavailable” and retain the quote's
+  locator, IDs and dates. A missing link does not mean a returned quote is missing.
+  `app_url` opens the TickerTrac workspace; label it separately. Never infer a
+  publisher or issuer link from the provider name or substitute a homepage.
 - A saved summary is introduced as "TickerTrac's words"; it is never put in quotation marks as
   if it were the source.
 - "Searched" lists each call with query, scope, window and truncation.

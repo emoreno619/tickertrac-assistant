@@ -32,6 +32,10 @@ Rules the shape enforces:
 - Coverage comes before the signals, in the words the result returned.
 - Counts use the saved `relationship` and `materiality` values only.
 - Each item has its `app_url`; each quote has its locator and its own dates.
+- Cite a returned `source_url` only when `source_link_state` is `available`.
+  Otherwise say “Source link unavailable.” Keep the saved judgment and any
+  permitted quote. Label `app_url` as the TickerTrac workspace, and never invent a
+  publisher/issuer destination or use a homepage in place of the exact source.
 - A section with zero items reads "No retained signals in this window" plus the coverage
   note. It never reads "no news" or "nothing changed".
 - "My reading" is the only place for interpretation and is always marked not saved.
