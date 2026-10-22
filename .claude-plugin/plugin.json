@@ -1,8 +1,8 @@
 {
   "name": "tickertrac-assistant",
   "displayName": "TickerTrac",
-  "version": "0.1.2",
-  "description": "Review your saved TickerTrac theses and check an assumption against exact retained evidence, read-only by default, with owner-approved record changes.",
+  "version": "0.1.3",
+  "description": "Keep your stock research connected to why you invested. Review what supports or challenges your investment thesis in Claude, with cited sources and a history of how your reasoning changed.",
   "author": {
     "name": "TickerTrac",
     "email": "support@tickertrac.com",

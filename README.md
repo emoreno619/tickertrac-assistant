@@ -1,7 +1,20 @@
 # TickerTrac assistant plugin
 
-Review your saved TickerTrac theses and check an assumption against the exact evidence
-TickerTrac has retained, from your AI assistant. Read-only by default.
+Keep your stock research connected to why you invested.
+
+TickerTrac helps you save why you own or are considering a company, follow evidence that could change your view, and preserve your reasoning over time.
+
+Connect your account to bring that research into Claude. Catch up on your Company theses and Investment themes, examine the sources behind a finding, or compare how your thesis has changed.
+
+Try asking:
+
+- “What challenged my investment theses this week?”
+- “Does the evidence still support my assumption that demand is growing?”
+- “How has my thesis changed since I first saved it?”
+
+Reviews use evidence already saved in TickerTrac, including available filings, earnings calls and news findings. Sources, dates and coverage gaps stay visible.
+
+A TickerTrac account is required. Start free with one monitored company. Connections begin with read access; changes require your authorization. TickerTrac provides research tools, not investment advice or trade execution.
 
 ## What it includes
 
@@ -16,13 +29,6 @@ TickerTrac has retained, from your AI assistant. Read-only by default.
   filings, earnings calls, disclosures, saved signals and SEC headline metrics for a saved
   thesis, and get supported, contradicted, partial, insufficient or unavailable with verbatim
   citations.
-
-## Use it
-
-Connect the TickerTrac connector, then ask, for example, "What changed on my theses this
-week?" or "Does the retained evidence still support my assumption that Acme's backlog is
-growing?". The assistant reads your saved records and reports what it found and what it
-could not cover.
 
 ## What it does not do
 
